@@ -1,6 +1,7 @@
 import './App.css';
 import Nav from "./components/Navbar"
 import Textinput from "./components/textinput"
+import "../src/App.css"
 
 function App() {
   return (
