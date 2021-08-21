@@ -58,10 +58,10 @@ export default function Textinput(props) {
             <div className="mb-3">
             <label for="exampleFormControlTextarea1" className="form-label">Type Below:</label>
                 <textarea className="form-control" id="exampleFormControlTextarea1" rows="6" id="usertext" value={text} onChange={changeHandle}></textarea>
-                <button className="btn btn-primary my-2" onClick={ChangeTextUpper}>Click to Upper</button>
-                <button className="btn btn-primary mx-2" onClick={ChangeTextLower}>Click to Lower</button>
-                <button className="btn btn-primary mx-2" onClick={ClearText}>Clear text</button>
-                <button className="btn btn-primary mx-2" onClick={CopyText}>CopyText</button>
+                <button className="btn btn-info my-2" onClick={ChangeTextUpper}>Click to Upper</button>
+                <button className="btn btn-info mx-2" onClick={ChangeTextLower}>Click to Lower</button>
+                <button className="btn btn-info mx-2" onClick={ClearText}>Clear text</button>
+                <button className="btn btn-info mx-2" onClick={CopyText}>CopyText</button>
                 <p>Status</p>
                 <p id="result"></p>
         </div>
