@@ -7,7 +7,7 @@ function App() {
     <>
       <Nav title="Get My Text" />
       <div className="container">
-      <Textinput heading = "Get Your Text The Way You Want"/>
+      <Textinput heading = "GET YOUR TEXT THE WAY YOU WANT"/>
       </div>
     </>
 
