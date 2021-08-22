@@ -64,6 +64,7 @@ export default function Textinput(props) {
             status.style.background = "none";
         }, 1600)
     }
+      
 
 
     return (
@@ -77,10 +78,10 @@ export default function Textinput(props) {
             <div className="mb-3">
             <label for="exampleFormControlTextarea1" className="form-label" id="type">Type Below:</label>
                 <textarea className="form-control" id="exampleFormControlTextarea1" rows="16" id="usertext" value={text} onChange={changeHandle}></textarea>
-                <button id="mybtn" onClick={ChangeTextUpper}>Convert to Upper</button>
-                <button id="mybtn" onClick={ChangeTextLower}>Convert to Lower</button>
-                <button id="mybtn" onClick={ClearText}>Clear text</button>
-                <button id="mybtn" onClick={CopyText}>CopyText</button>
+                <button id="mybtn1" className="bt1" onClick={ChangeTextUpper}>Convert to Upper</button>
+                <button id="mybtn2" onClick={ChangeTextLower}>Convert to Lower</button>
+                <button id="mybtn3" onClick={ClearText}>Clear text</button>
+                <button id="mybtn4" onClick={CopyText}>CopyText</button>
                 <p id="type2">Status</p>
                 <p id="result"></p>
         </div>

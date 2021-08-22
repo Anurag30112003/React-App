@@ -31,7 +31,17 @@ body {
     animation: color-change 5s linear infinite;
 }
 
-#mybtn {
+#type2 {
+    text-align: center;
+    background: #001fff;
+    margin-left: 0rem;
+    border-radius: 7px;
+    font-family: 'Baloo Tamma 2', cursive;
+    font-size: 1rem;
+    width: 5%;
+}
+
+#mybtn1 {
     background: aquamarine;
     text-decoration: none;
     font-family: "Baloo Tamma 2", cursive;
@@ -45,6 +55,64 @@ body {
     margin: 11px 6px;
 }
 
+#mybtn2 {
+    background: aquamarine;
+    text-decoration: none;
+    font-family: "Baloo Tamma 2", cursive;
+    cursor: pointer;
+    font-size: 20px;
+    border-radius: 11px;
+    border: 2px solid black;
+    margin-top: 7px;
+    padding: 3.5px;
+    font-weight: bold;
+    margin: 11px 6px;
+}
+
+#mybtn3 {
+    background: aquamarine;
+    text-decoration: none;
+    font-family: "Baloo Tamma 2", cursive;
+    cursor: pointer;
+    font-size: 20px;
+    border-radius: 11px;
+    border: 2px solid black;
+    margin-top: 7px;
+    padding: 3.5px;
+    font-weight: bold;
+    margin: 11px 6px;
+}
+
+#mybtn4 {
+    background: aquamarine;
+    text-decoration: none;
+    font-family: "Baloo Tamma 2", cursive;
+    cursor: pointer;
+    font-size: 20px;
+    border-radius: 11px;
+    border: 2px solid black;
+    margin-top: 7px;
+    padding: 3.5px;
+    font-weight: bold;
+    margin: 11px 6px;
+}
+
+#mybtn1:hover {
+    font-size: 20.5px;
+}
+
+#mybtn2:hover {
+    font-size: 20.5px;
+}
+
+#mybtn3:hover {
+    font-size: 20.5px;
+}
+
+#mybtn4:hover {
+    font-size: 20.5px;
+}
+
 #result {
     font-family: "Baloo Tamma 2", cursive;
     font-size: 20px;
@@ -55,16 +123,6 @@ body {
     margin: 11px 6px;
     width: 23%;
     margin-left: 30rem;
-}
-
-#type2 {
-    text-align: center;
-    background: aquamarine;
-    width: 6.4rem;
-    margin-left: 0rem;
-    border-radius: 7px;
-    font-family: 'Baloo Tamma 2', cursive;
-    font-size: 1rem;
 }
 
 #mycss {
