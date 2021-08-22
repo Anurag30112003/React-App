@@ -1,5 +1,6 @@
 ## Inspiration
-Building interactive user faces, no matter the development platform is an undoubtedly tedious and tricky task. It takes tireless effort, complete dedication, and proper concentration to developing each component of a website. However, React JS is a JavaScript library that makes building user interfaces much better and life much better for developers. Pretty good company to keep, don’t you think!
+Building interactive user faces, no matter the development platform is an undoubtedly tedious and tricky task. It takes tireless effort, complete dedication, and proper concentration to developing each component of a website. However, React JS is a JavaScript library that makes building user interfaces much better and life much better for developers. Pretty good company to keep, don’t you think! .....
+
 
 ## What it does
 This platform gives the developers the authority to reuse the components build for some other application having the same functionality. It is a text transformation react app in which bulk text can convert very easily and transforms like in Lowercase, Uppercase, easy copy text, cleared text, and format the text. ReactJS provides reusable components that developers have the authority to reuse and create a new application.
