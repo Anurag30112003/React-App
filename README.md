@@ -1,3 +1,33 @@
+## Inspiration
+Building interactive user faces, no matter the development platform is an undoubtedly tedious and tricky task. It takes tireless effort, complete dedication, and proper concentration to developing each component of a website. However, React JS is a JavaScript library that makes building user interfaces much better and life much better for developers. Pretty good company to keep, don’t you think!
+
+## What it does
+This platform gives the developers the authority to reuse the components build for some other application having the same functionality. It is a text transformation react app in which bulk text can convert very easily and transforms like in Lowercase, Uppercase, easy copy text, cleared text, and format the text. ReactJS provides reusable components that developers have the authority to reuse and create a new application.
+
+## How we built it
+- To create a new React project, we can use the tool npx, provided you have an npm version of at least 5.2.
+
+**npx create-react-app my-react-app**
+
+- Create React App also gives us some templates to use for specific types of React projects. To create a React app that uses TypeScript, we can use the Create React App TypeScript template. To start your React project, you can simply run:
+
+**npm start**
+
+The development server will start up on localhost:3000 and, right away, we can see the starting home page for our app.
+
+## Challenges we ran into
+Even though react native is now more than two years old it still needs to develop more. All the challenges or limitations that have been mentioned above are faced by react-native developers all across the world. And these were not the only challenges that react-native poses, there are more with which the react native app development companies combat. That is why there is a high demand for such companies in the market. And CIS is nevertheless one of the best.
+
+## Demo
+
+![New Tab - Google Chrome 2021-08-22 15-42-06 mp4-high](https://user-images.githubusercontent.com/68494604/130355757-d75b45cf-c6e2-4711-8b4d-05cde8d8a1b9.gif)
+
+![Screenshot (413)](https://user-images.githubusercontent.com/68494604/130355752-28d75f4a-ed6d-46e7-902c-c37b5ada853e.png)
+
+
+## What's next for Get your text the way you want
+Currently working on adding more features to it 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
