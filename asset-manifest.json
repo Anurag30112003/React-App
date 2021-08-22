@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/React-App/static/css/main.e0bd4321.chunk.css",
+    "main.js": "/React-App/static/js/main.46a624be.chunk.js",
+    "main.js.map": "/React-App/static/js/main.46a624be.chunk.js.map",
+    "runtime-main.js": "/React-App/static/js/runtime-main.901c23d3.js",
+    "runtime-main.js.map": "/React-App/static/js/runtime-main.901c23d3.js.map",
+    "static/js/2.1aea7ccf.chunk.js": "/React-App/static/js/2.1aea7ccf.chunk.js",
+    "static/js/2.1aea7ccf.chunk.js.map": "/React-App/static/js/2.1aea7ccf.chunk.js.map",
+    "static/js/3.0ee5c5e4.chunk.js": "/React-App/static/js/3.0ee5c5e4.chunk.js",
+    "static/js/3.0ee5c5e4.chunk.js.map": "/React-App/static/js/3.0ee5c5e4.chunk.js.map",
+    "index.html": "/React-App/index.html",
+    "static/css/main.e0bd4321.chunk.css.map": "/React-App/static/css/main.e0bd4321.chunk.css.map",
+    "static/js/2.1aea7ccf.chunk.js.LICENSE.txt": "/React-App/static/js/2.1aea7ccf.chunk.js.LICENSE.txt",
+    "static/media/load.0018b413.gif": "/React-App/static/media/load.0018b413.gif",
+    "static/media/App.css": "/React-App/static/media/pic3.57e89e71.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.901c23d3.js",
+    "static/js/2.1aea7ccf.chunk.js",
+    "static/css/main.e0bd4321.chunk.css",
+    "static/js/main.46a624be.chunk.js"
+  ]
+}
